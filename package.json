@@ -1,0 +1,23 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/apiTest.js'",
+    "start":"node index.js"
+  },
+  "author": "AUTO",
+  "license": "MTI",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.24"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.6"
+  }
+}
