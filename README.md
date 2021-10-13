@@ -22,3 +22,6 @@ http://192.99.144.232:5001/api/buscar?producto=ala
 ![image](https://user-images.githubusercontent.com/34777107/137222853-98f8c5b9-359f-4830-a7f9-cfe2061b56c9.png)
 
 
+Obs: Se incluyen las instrucciones en docker file para montar el docker. 
+
+
